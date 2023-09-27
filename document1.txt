@@ -1,4 +1,4 @@
-kim min gi
+kim min gi (컴퓨터공학과)
 
 def partition(l, r, nums):
     # Last element will be the pivot and the first element the pointer
